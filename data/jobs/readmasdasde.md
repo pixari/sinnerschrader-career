@@ -1,1 +1,1 @@
-[blabla](/de/data-engineer.md)
+[blabla](de/data-engineer.md)
